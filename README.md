@@ -1,2 +1,2 @@
-# Visualisation-Donn-es-Excel
+# Visualisation-Données-Excel
 Visualisez des données avec Excel
